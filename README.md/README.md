@@ -19,7 +19,7 @@ This project demonstrates the analysis of **DNS**, **HTTP**, and **TCP** traffic
 
 Capture Details:
 Query Name: google.com
-Response IP: 172.217.16.142
+Response IP: 192.168.5.16
 
 Captured File: captures/dns_lookup_google_20250403.pcap
 
